@@ -1,3 +1,5 @@
 # computer_arch   
-./vmcode <object_file.obj>     
-hostname_cms$ ./vmcode 2048.obj   
+./vmcode <object_file.obj>    
+  
+e.g.    
+$ ./vmcode 2048.obj     
